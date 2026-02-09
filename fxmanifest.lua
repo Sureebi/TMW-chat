@@ -2,10 +2,10 @@ fx_version 'cerulean'
 game 'common'
 
 name 'qbx_chat_theme'
-description 'mantine-styled theme for the chat resource.'
+description 'Futuristic chat theme for QBox, QBcore.'
 version '1.0.0'
-author 'um - d4 | <qbox team>'
-repository 'https://github.com/Qbox-project/qbx_chat_theme'
+author 'Sureebi'
+repository 'https://github.com/Sureebi/TMW-chat'
 
 -- we need chat to be able to access this resource's callbacks
 nui_callback_strict_mode 'false'
